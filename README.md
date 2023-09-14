@@ -1,4 +1,4 @@
-# Hi, I'm AbdulMalik
+# Hi, I'm AbdulMalik 👋
 
 I'm a passionate Flutter developer, graphic designer, and UI/UX & motion design enthusiast. 🚀
 
