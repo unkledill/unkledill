@@ -8,7 +8,7 @@ I'm a passionate Flutter developer, graphic designer, and UI/UX & motion design 
 - 🎨 Graphic Designer: I have a keen eye for design and love creating visually stunning graphics.
 - 🌟 UI/UX & Motion Design Enthusiast: I'm always eager to learn and experiment with new design trends and animations.
 
-## Portfolio
+## Design Portfolio
 
 You can check out some of my design projects on [Behance](https://www.behance.net/abayomitubs).
 
