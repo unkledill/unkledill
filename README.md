@@ -20,6 +20,6 @@ Feel free to reach out and connect with me on social media:
 
 I'm always open to collaboration and eager to learn from fellow developers and designers. Let's create amazing things together!
 
-![Flutter](https://img.shields.io/badge/Flutter-Expert-blue)
+![Flutter]
 ![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-Enthusiast-green)
 ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-Enthusiast-green)
